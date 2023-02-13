@@ -1,3 +1,8 @@
+'''
+2023 © MaoHuPi
+kbrMaster.py
+'''
+
 from pynput import keyboard
 
 keys = {}
