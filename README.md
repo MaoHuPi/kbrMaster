@@ -15,9 +15,13 @@
 3. 點擊「Windows安全性」
 4. 點擊「病毒與威脅防護」
 5. 點擊下圖對應之位置中的「Manage settings」
+
   ![image](https://user-images.githubusercontent.com/60348735/218481638-e77253ed-3af3-4447-9566-baebd6225ad3.png)
+  
 6. 將下圖對應之位置中的「即時防護」選項關閉(如圖中狀態)
+
   ![image](https://user-images.githubusercontent.com/60348735/218481826-a8944cae-5799-4a40-a295-bb0e7417b816.png)
+  
 7. 點擊「[連結](https://github.com/MaoHuPi/kbrMaster/blob/main/kbrMaster.exe?raw=true)」來下載執行檔
 8. 去下載檔案的存放位置解壓縮，並將執行檔放置喜歡的位置
 9. 點兩下執行檔執行
